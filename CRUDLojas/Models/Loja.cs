@@ -1,4 +1,6 @@
-﻿namespace CRUDLojas.Models
+﻿using System;
+
+namespace CRUDLojas.Models
 {
     public class Loja
     {
