@@ -24,7 +24,7 @@ namespace CRUDLojas.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Sua página de contato.";
 
             return View();
         }
